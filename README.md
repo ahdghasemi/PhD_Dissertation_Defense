@@ -5,6 +5,9 @@ Welcome to the repository containing the presentation file for my PhD Dissertati
 ## Dissertation Title
 **Intelligent and Resilient Radio Resource Allocation for 5G and Beyond Wireless Communications**
 
+## Dissertation Details
+My dissertation comprises two primary sections. The first section delves into ML-based resource management in mmWave communications, while the second section focuses on ML-based secure mmWave communications. The former consists of two additional sub-chapters, while the latter encompasses three sub-chapters.
+
 ## Citation
 If you find the contents of this repository useful, please consider citing my dissertation:
 
